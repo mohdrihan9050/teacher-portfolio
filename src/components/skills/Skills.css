@@ -1,0 +1,17 @@
+.progress{
+    background-color: rgb(255, 109, 55,.45);
+    height: 1.5vh;
+
+}
+.progress-bar{
+    background-color: orangered;
+    height: 1.5vh;
+}
+.skill{
+    font-size: 20px;
+    color: orangered;
+    font-weight: 400;
+}
+.div{
+    width: 50;
+}

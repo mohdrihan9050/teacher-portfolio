@@ -1,0 +1,41 @@
+.dim{
+    height: 60vh;
+    width: 120vh;
+}
+.name-font{
+    font-size: 32px;
+}
+.font{
+    font-size: 38px;
+}
+.text-end{
+    font-size: 24px;
+}
+.icon{
+    font-size: 38px !important;
+    font-weight: bolder;
+    color: orangered;
+    margin: 6px;
+    padding: 3px;
+    background-color: whitesmoke;
+    border: 1px solid orangered;
+    border-radius: 20px;
+}
+.icon:hover{
+    cursor: pointer;
+    color: whitesmoke;
+    background-color:orangered ;
+    
+}
+.img-size{
+    height: 500px;
+    width: 500px;
+}
+/* .home-bg-img{
+    background-image: url('../../img/profile-img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 90vh;
+    border-radius: 10px;
+} */

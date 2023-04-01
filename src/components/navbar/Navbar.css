@@ -1,0 +1,31 @@
+.bg-custom{
+    background-color: white !important;
+    border-bottom: 1px solid orangered;
+}
+.nav-link{
+    color:orangered !important;
+    font-size: 18px;
+}
+.nav-link:hover{
+    color: orangered;
+    border-bottom: 1px solid orangered;
+}
+/* .navbar-brand{
+    font-size: 22px;
+    font-weight: bold;
+    color: white !important;
+    background-color: orangered !important;
+    border-radius: 25px;
+
+} */
+/* .navbar-brand:hover{
+    border-bottom: 1px solid orangered;
+} */
+.navbar-toggler{
+    box-shadow: none !important;
+    border:  1px solid orangered !important;
+    
+}
+.active{
+    color: black !important;
+}

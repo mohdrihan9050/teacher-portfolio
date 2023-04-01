@@ -1,0 +1,10 @@
+.volunteer-container{
+    border: 4px solid orangered;
+    border-left: none;
+    border-right: none;
+    border-radius: 30px;
+    
+}
+.img-height{
+    height: 300px;
+}
