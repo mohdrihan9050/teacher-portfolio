@@ -2,7 +2,7 @@ import './Contact.css';
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { Alert } from '@mui/material';
-function Conatct(){
+function Contact(){
     const form = useRef();
     const sendEmail = (e) => {
       e.preventDefault();
@@ -29,4 +29,4 @@ function Conatct(){
         </div>
     )
 }
-export default Conatct;
+export default Contact;
